@@ -1,0 +1,39 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Editor and system
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs and debugging files
+logs/
+*.log
+
+# Dependencies
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Configuration and credentials
+config.json
+secrets.json
+
+# Custom directories to ignore
+Data/
+data/
