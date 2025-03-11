@@ -5,4 +5,4 @@
 - Sol RIVERO
 - Alejandra SUPERLANO
 
-Data link https://drive.google.com/drive/folders/10IP8Oy0OCWkr6mlnlWoZ33deX77DcSrA?usp=sharing
+Challenge https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states/data
